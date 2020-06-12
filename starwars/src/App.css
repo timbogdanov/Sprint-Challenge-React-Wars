@@ -1,5 +1,5 @@
 .App {
-  width: 50%;
+  width: 800px;
   margin: 0 auto;
 }
 .Header {
@@ -9,3 +9,8 @@
   text-align: center;
 }
 /* write your parent styles in here for your App.js */
+
+
+.display {
+  display: none;
+}
